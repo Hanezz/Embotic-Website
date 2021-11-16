@@ -1,0 +1,42 @@
+*{
+    font-family:"Trebuchet MS", sans-serif;
+    background-color: rgb(0, 140, 255);
+}
+
+.scroll{
+    overflow-y:scroll;
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+a:link {
+  color:white;
+  text-decoration: none;
+  }
+  
+a:visited {
+  color:white;
+  text-decoration: none;
+}
+  
+a:hover {
+  color:white;
+  text-decoration: underline;
+}
+  
+a:active {
+  color:white;
+  text-decoration: underline;
+}
+
+.image{
+  position:relative;
+  left:700px;
+}
+
+.footer{
+  font-size:150%
+}
